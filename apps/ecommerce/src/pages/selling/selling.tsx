@@ -55,7 +55,7 @@ export function Selling(props: SellingProps) {
           </label>
         </div>
         <div className="flex items-center justify-start px-10">
-          <img src={logoPath} alt="" className='w-[10vw]' />
+          <img src={logoPath} alt="" className='md:w-[10vw]' />
         </div>
         <div className="flex-none hidden md:block">
           <ul className="menu menu-horizontal">
